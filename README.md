@@ -1,8 +1,6 @@
 # cowtopia
 Airdrop Bot Cowtopia
 
-<center><img src="x.png" alt="tools"></center>
-
 Fiture Tools Bot Cowtopia
 - [x] Auto Complete Mission
 - [x] Checking Info Account
